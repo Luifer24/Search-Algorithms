@@ -1,3 +1,6 @@
+# No queremos el valor exacto del resultado si no una aproximacion muy cercana al 
+# resultado
+
 target = int(input('Select a number: '))
 epsilon = 0.01
 step = epsilon**2
